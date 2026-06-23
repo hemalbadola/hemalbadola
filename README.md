@@ -10,7 +10,7 @@
 
 ***
 
-I write code across the stack and train models when I'm not debugging them. Right now I'm building **[Vyoma](https://github.com/hemalbadola/vyoma)**, a video creation and editing app with AI baked in, and running experiments on **BlastRadius**, an RL/GRPO-based model trained using Hugging Face. I also built **CiteMesh**, a research citation tool, and work on backend systems and IoT projects in between.
+I write code across the stack and train models when I'm not debugging them. Right now I'm building **[Vyoma](https://github.com/hemalbadola/vyoma)**, a cross-platform app for students and focused daily work that combines calendar planning, journaling, and a mission console in one place. I also run experiments on **BlastRadius**, an RL/GRPO-based model trained using Hugging Face, and built **CiteMesh**, a research citation tool. Backend systems and IoT projects fill the rest.
 
 Most of what I do sits at the intersection of systems thinking and applied ML. I care about how things are actually built, not just that they work.
 
@@ -41,7 +41,7 @@ Outside of that: gym, strategy games, and too much coffee.
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Vyoma**](https://github.com/hemalbadola/vyoma) | Video creation and editing app with deep AI integration, personalised to the user | Flutter, Dart |
+| [**Vyoma**](https://github.com/hemalbadola/vyoma) | A cross-platform app for students and focused daily work that combines calendar planning, journaling, and a mission console in one place | Flutter, Dart |
 | [**BlastRadius**](https://github.com/hemalbadola/BlastRadius) | RL/GRPO-based model trained from scratch using Hugging Face Transformers | Python, PyTorch |
 | [**CiteMesh**](https://github.com/hemalbadola/citemesh) | Research citation and reference management tool | Python |
 | [**ResolveAi**](https://github.com/hemalbadola/ResolveAi) | Backend service for AI-driven query resolution | JS, Python |
@@ -56,15 +56,4 @@ Outside of that: gym, strategy games, and too much coffee.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hemalbadola&show_icons=true&theme=transparent&hide_border=true&title_color=01696f&icon_color=01696f&text_color=555555&rank_icon=github" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemalbadola&theme=transparent&hide_border=true&stroke=01696f&ring=01696f&fire=01696f&currStreakLabel=01696f" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemalbadola&layout=compact&theme=transparent&hide_border=true&title_color=01696f&text_color=555555&langs_count=8" width="48%" />
-</p>
-
-***
-
-<p align="center">
-  <a href="https://github.com/hemalbadola"><img src="https://cdn.simpleicons.org/github/000000" width="22" height="22" alt="GitHub" /></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/hemalbadola"><img src="https://cdn.simpleicons.org/linkedin" width="22" height="22" alt="LinkedIn" /></a>
 </p>
